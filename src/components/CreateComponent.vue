@@ -1,7 +1,7 @@
 <template>
     <div class="row justify-content-center">
         <div class="col-md-6">
-            <h1>Create Student</h1>
+            <h1>Create Product</h1>
             <form @submit.prevent="handleSubmitForm">
 
                 <div class="form-group">
